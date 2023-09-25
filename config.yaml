@@ -1,0 +1,8 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ep-holy-morning-85798622.us-east-2.aws.neon.tech/neondb?user=marviie9&password=2IWmSyLwR3jl
+  - configuration:
+      name: auth_config
+      client_id: 31b6a75c282f4688b7b7d936a06ef6d6
+      client_secret: 1a5638d6283f49d082b3513e9ef6ef66
